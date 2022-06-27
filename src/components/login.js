@@ -27,7 +27,7 @@ const UserLogin = () => {
                 <div className=" col-xs-12 col-md-10">
                   <div className="checkbox">
                     <label>
-                      <input type="checkbox" /> Remember me
+                      <input type="checkbox" /> Remember my details
                     </label>
                   </div>
                 </div>
